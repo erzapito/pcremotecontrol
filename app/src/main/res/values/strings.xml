@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false" >PCRemoteControl</string>
+
+
+    <string name="pc_name">Name:</string>
+    <string name="add">Add</string>
+    <string name="pc_mac">MAC:</string>
+    <string name="pc_ip">IP:</string>
+</resources>

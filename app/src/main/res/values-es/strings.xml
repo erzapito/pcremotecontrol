@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pc_name">Nombre:</string>
+    <string name="add">Añadir</string>
+    <string name="pc_mac">MAC:</string>
+    <string name="pc_ip">IP:</string>
+</resources>
